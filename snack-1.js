@@ -6,8 +6,3 @@ const names = ['Edoardo', 'Simone', 'Francesco'];
 names.forEach(name => {
   console.log(name);
 });
-
-
-
-
-
