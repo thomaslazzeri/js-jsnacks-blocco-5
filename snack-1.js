@@ -3,8 +3,8 @@ const names = ['Edoardo', 'Simone', 'Francesco'];
 // Stampa in console tutti i nomi
 // Risultato: 'Edoardo', 'Simone', 'Francesco'
 
-names.forEach((el, i) => {
-    console.log(el, i);
+names.forEach(name => {
+  console.log(name);
 });
 
 
